@@ -1,0 +1,99 @@
+
+*{
+    font-family:Arial, Helvetica, sans-serifserif
+}
+.container{
+    width: 100%;
+    box-sizing: border-box;
+}
+.firstrectangle{
+    background-color:burlywood;
+    display:flex;
+    justify-content:space-around;
+    text-align: justify;
+}
+.secondrectangle{
+    background-color:blanchedalmond;
+    display: flex;
+    justify-content:space-around;
+}
+.secondrectangle2{
+    margin-bottom: 20px;
+}
+.secondrectangle img{
+    margin-top: 30px;
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    padding-left: 4px;
+    padding-right: 10px;
+}
+.simplicity{
+    color: rgb(255, 255, 255);
+}
+body{
+    font-size: medium;
+    width: 100%;
+    height: 100%;
+    margin: 0; 
+}
+li{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right:10px;
+}
+.line{
+    border-left: 1px dotted;
+}
+a{
+    text-decoration: none;
+    padding: 2px;
+    color: black;
+}
+img{
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+}
+.rectangle3{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    margin: 0px;
+}
+.rectangle4{
+    display: flex;
+    justify-content:space-around;
+    margin-left: 0cm;
+    list-style-type: none;
+    padding: 0cm;
+    margin-bottom:5px ;
+}
+.rectangle4  img{
+    height: 170px;
+    width: 170px;
+    background-color: blanchedalmond;
+    margin-bottom: 8px;
+}
+.rectangle5{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    margin:50px;
+}
+.rectangle6 img{
+    width: 250px;
+    height: 120px;
+    background-color: blanchedalmond;
+}
+.abc{
+    border-bottom: 0.5px dotted black;
+}
+.edf{
+    margin-right: 8px;
+    border-bottom: 0.5px dotted black;
+}
+.jkl{
+    color: rgb(255, 255, 255);
+}
